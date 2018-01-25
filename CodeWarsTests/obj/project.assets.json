@@ -5846,11 +5846,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Codewars\\CodeWars\\CodeWarsTests\\CodeWarsTests.csproj",
+      "projectUniqueName": "C:\\Users\\pearlie.lin69\\Source\\Repos\\CodeWars\\CodeWarsTests\\CodeWarsTests.csproj",
       "projectName": "CodeWarsTests",
-      "projectPath": "C:\\Codewars\\CodeWars\\CodeWarsTests\\CodeWarsTests.csproj",
+      "projectPath": "C:\\Users\\pearlie.lin69\\Source\\Repos\\CodeWars\\CodeWarsTests\\CodeWarsTests.csproj",
       "packagesPath": "C:\\Users\\pearlie.lin69\\.nuget\\packages\\",
-      "outputPath": "C:\\Codewars\\CodeWars\\CodeWarsTests\\obj\\",
+      "outputPath": "C:\\Users\\pearlie.lin69\\Source\\Repos\\CodeWars\\CodeWarsTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5869,8 +5869,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Codewars\\CodeWars\\CodeWars\\CodeWars.csproj": {
-              "projectPath": "C:\\Codewars\\CodeWars\\CodeWars\\CodeWars.csproj"
+            "C:\\Users\\pearlie.lin69\\Source\\Repos\\CodeWars\\CodeWars\\CodeWars.csproj": {
+              "projectPath": "C:\\Users\\pearlie.lin69\\Source\\Repos\\CodeWars\\CodeWars\\CodeWars.csproj"
             }
           }
         }

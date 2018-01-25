@@ -6,5 +6,6 @@ namespace CodeWarsTests
 {
     class Class1
     {
+        private int i = 0;
     }
 }
