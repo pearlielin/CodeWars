@@ -1,0 +1,12 @@
+C:\Codewars\CodeWars\CodeWars\bin\Debug\netcoreapp2.0\CodeWars.deps.json
+C:\Codewars\CodeWars\CodeWars\bin\Debug\netcoreapp2.0\CodeWars.dll
+C:\Codewars\CodeWars\CodeWars\obj\Debug\netcoreapp2.0\CodeWars.csprojResolveAssemblyReference.cache
+C:\Codewars\CodeWars\CodeWars\obj\Debug\netcoreapp2.0\CodeWars.csproj.CoreCompileInputs.cache
+C:\Codewars\CodeWars\CodeWars\obj\Debug\netcoreapp2.0\CodeWars.AssemblyInfoInputs.cache
+C:\Codewars\CodeWars\CodeWars\obj\Debug\netcoreapp2.0\CodeWars.AssemblyInfo.cs
+C:\Codewars\CodeWars\CodeWars\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Codewars\CodeWars\CodeWars\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Codewars\CodeWars\CodeWars\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Codewars\CodeWars\CodeWars\bin\Debug\netcoreapp2.0\CodeWars.pdb
+C:\Codewars\CodeWars\CodeWars\obj\Debug\netcoreapp2.0\CodeWars.dll
+C:\Codewars\CodeWars\CodeWars\obj\Debug\netcoreapp2.0\CodeWars.pdb
