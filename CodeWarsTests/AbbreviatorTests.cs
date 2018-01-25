@@ -15,7 +15,7 @@ namespace CodeWarsTests
         [Test]
         public void TestShortSentance()
         {
-            Assert.AreEqual("my. dog, isn't f5g v2y w2l.lll", Abbreviator.Abbreviate("my. dog, isn't feeling very well."));
+            Assert.AreEqual("my. dog, isn't f5g v2y w2l.", Abbreviator.Abbreviate("my. dog, isn't feeling very well."));
         }
     }
 }
