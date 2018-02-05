@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Xml.Linq;
 
 namespace CodeWars
 {
@@ -14,9 +12,9 @@ namespace CodeWars
             var cats = new List<int>();
             for (var i = 0; i < xs.Count; i++)
             {
-                if(xs[i]=='D')
+                if (xs[i] == 'D')
                     dogs.Add(i);
-                else if(xs[i]=='C')
+                else if (xs[i] == 'C')
                     cats.Add(i);
             }
 
@@ -24,7 +22,7 @@ namespace CodeWars
             {
                 for (var k = 0; k < cats.Count; k++)
                 {
-                    if (Math.Abs(d - cats[k]) <= n) 
+                    if (Math.Abs(d - cats[k]) <= n)
                     {
                         count++;
                         cats.Remove(cats[k]);
@@ -32,7 +30,6 @@ namespace CodeWars
                     }
                 }
             }
-            
 
             return count;
         }
